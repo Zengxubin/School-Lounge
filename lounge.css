@@ -56,15 +56,20 @@ h2 {
   font-weight: bold;
 }
 
-#eliexirs a:link{
+.eliexirs a:link{
   color: #007e7e
 }
 
-#eliexirs a:visited{
+.eliexirs a:visited{
   color: #333333;
 }
 
-#eliexirs a:hover{
+.eliexirs a:hover{
   background: #f88396;
   color: #0d5353;
+}
+
+.elixirs {
+  width: 200px;
+  float: right;
 }
